@@ -235,4 +235,4 @@ class CustomQueryResultCache implements QueryResultCache {
 }
 ```
 
-You can use `typeorm cache:clear` to clear everything stored in the cache.
+Vous pouvez utiliser `typeorm cache:clear` pour effacer tout ce qui est contenu dans le cache.
